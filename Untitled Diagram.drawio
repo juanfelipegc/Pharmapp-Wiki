@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T13:28:26.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.6" etag="yP286gRwdkxLAeOOWNsn" type="gitlab"><diagram id="BTX6TpkgsDi1Uhbr8qeF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-04T13:46:47.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="hiS6WHGVfYtIB9RqVmfK" version="13.6.6" type="gitlab">
+  <diagram id="BTX6TpkgsDi1Uhbr8qeF" name="Page-1">
+    <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q2iJuUPVFAqiTaPoKWRk-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="750" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="q2iJuUPVFAqiTaPoKWRk-2" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;P&lt;/font&gt;roblem:&lt;/b&gt;&amp;nbsp;&quot;I need a way to know how to manage the pills I&#39;m taking, in terms of intake times, mixing with other substances, and knowing about adverse effects&quot;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="700" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="q2iJuUPVFAqiTaPoKWRk-3" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;A&lt;/font&gt;lternatives: &lt;/b&gt;&quot;I use the reminders or the alarm feature in my cellphone and trust all my doctor says, but I don&#39;t like to read the instructions that come with the meds.&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="700" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="q2iJuUPVFAqiTaPoKWRk-4" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;S&lt;/font&gt;olution: &lt;/b&gt;An app which allows the user to access all information regarding the medicine, its adverse effects, and track the intake times.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="710" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
